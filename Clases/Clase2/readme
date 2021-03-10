@@ -1,0 +1,16 @@
+10 de marzo 2021
+
+Esta carpeta contiene lo siguiente:
+-clase-2_fv.ipynb (notebook principal de la clase)
+-Newton-Raphson-Descent.ipynb
+-diffraction-pattern.xy (archivo que contiene los ángulos e intensidades de un patrón de difracción)
+-NewtonIteration_Ani.gif (un gif que se muestra en los notebooks)
+-Literatura.zip (carpeta comprimida con la literatura de esta clase)
+
+En esta clase se abordan los siguientes temas:
+
+- Ajuste de un conjunto de puntos con una función
+
+- Método simple de mínimos cuadrados, de acuerdo a Gauss
+
+- Método de Newton-Raphson, para encontrar el cero de una función.
