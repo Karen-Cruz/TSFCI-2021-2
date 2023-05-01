@@ -38,3 +38,4 @@ Proyecto final
 El proyecto final es individual o en equipo de máximo cuatro integrantes.
 Consiste en implementar una red neuronal para resolver algún problema de tipo físico, químico, médico, etc.
 Mientras más integrantes tenga el equipo, más complejo deberá ser el tema a resolver.
+blablabla
